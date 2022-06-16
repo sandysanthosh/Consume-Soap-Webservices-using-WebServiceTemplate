@@ -30,7 +30,7 @@ public class SOAPConnector extends **WebServiceGatewaySupport** {
 
 ```
 
-
+@configuration
 public class config{
 
 @Bean
